@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900&subset=latin,latin-ext);
+
+body {
+	font-family: 'Source Sans Pro';
+}
+
+.jumbotron {
+	margin-bottom: 30px;
+}
+.jumbotron h1 {
+	font-weight: 900;
+}
+
+.btn-lg {
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.well h2 {
+	font-weight: 600;
+	letter-spacing: 0.025em;
+	margin-top: 10px;
+}
+
+.input-lg {
+	height: 69px;
+	padding: 15px 24px;
+	font-size: 28px;
+}
+
+.form {
+	margin-bottom: 30px;
+}
+
+.result {
+	margin-bottom: 30px;
+}
+
+.big {
+	font-size: 22px;
+	font-weight: 900;
+}

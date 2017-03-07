@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{HTTP_HOST} ^api\.tisikkirlir\.com$
+    RewriteRule ^ api.php [QSA,L]
+</IfModule>
